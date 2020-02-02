@@ -1,3 +1,3 @@
-# tospik
+# Color Seperator Robot
 
-Tospik is a traitor color selector robot.
+This project made for İTURO Color Selector Category.
